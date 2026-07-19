@@ -47,5 +47,3 @@ Set `GEMINI_API_KEY` in a local `.env` file before running `evaluation/gemini_co
 ```dotenv
 GEMINI_API_KEY=your_api_key_here
 ```
-
-The `.env` file is ignored by Git and must not be committed.
