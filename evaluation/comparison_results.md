@@ -1,0 +1,10 @@
+# Three-model Shakespeare comparison
+
+Local models generated 150 byte tokens with temperature 0.8 and top-k 40. Gemini used `models/gemini-flash-latest` and was capped to roughly 150 characters.
+
+| Prompt | Model A output | Model B output | Gemini output |
+|---|---|---|---|
+| To be, or not to  | the tombless.<br><br>ROMEO:<br>My liege, by barent thou mark an gave,<br>They tabe you some not the true, but me.<br><br>BRUTUS:<br>O, I was but both thy heart and on<br>That | the time of take<br>The king in the treashes of their changes;<br>I stem about me of bring and store I have alth.<br><br>EDWARD:<br>What, now think he shelt so shoul | be, that is the question:<br>Whether 'tis nobler in the mind to suffer<br>The |
+| O Romeo, Romeo,  | to groad made; and brother's content.<br><br>BENVOLIO:<br>Lord I secorn of sut, or as your they stoan.<br><br>BRY:<br>But, and take agace, is in toward prince, a this.<br> | to groan more; I will doth so<br>the traging peace for my chaffiangshing, or is good, he<br>puty dangerous not and takes groan in him.<br><br>MARCIUS:<br>The parts t | wherefore art thou Romeo? Deny thy father and refuse thy name; Or, if thou |
+| Now is the winter of  | them of sward<br>That command will of your repetitors<br>That a corturn to Claudion, good like of shines.<br><br>KING HENRY VI:<br>The father's but is grave a bray w | the towns and of<br>you the Capitol? Why it there worsbains too the<br>they say to be o' the death, the great boy,<br>For many thought forbid the quoint: i' th | "our discontent\\nMade glorious summer by this sun of York;\\nAnd all the clouds |
+| Friends, Romans, countrymen,  | now to kingHat:<br>How the light's wrave, content you of the power Rome,<br>Trange I poor enter the daught hath powers agagares<br>Again! as was. Where subject | now to be<br>Will stop them of the wrong, contemity:<br>Toght thou a word with all the more than stinful,<br>And then that Margard is in pastians:<br>Fear that th | lend me your ears;<br>I come to bury Caesar, not to praise him |

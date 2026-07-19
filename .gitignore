@@ -1,0 +1,6 @@
+.env
+.venv/
+.mplconfig/
+__pycache__/
+*.pt
+**/data/*.txt
